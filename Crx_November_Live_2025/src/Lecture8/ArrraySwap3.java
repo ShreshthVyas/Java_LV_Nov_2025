@@ -15,7 +15,5 @@ public class ArrraySwap3 {
 		int temp[] = arr;
 		arr = brr;
 		brr = temp;
-		
-		arr[1] = 1999;
 	}
 }
