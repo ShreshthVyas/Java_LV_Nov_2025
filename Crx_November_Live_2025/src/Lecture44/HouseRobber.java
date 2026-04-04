@@ -1,4 +1,4 @@
-package Lecrure44;
+package Lecture44;
 
 import java.util.Arrays;
 
